@@ -5,7 +5,8 @@ https://marc-elz.github.io/run-tracker/. GitHub Pages serves these files at http
 demo loads `style.json` from there. It needs no API key.
 
 Only two small areas are included, the places the demo shows: Utrecht (its sample runs) and a
-spot in Amsterdam (its simulated GPS), at zoom levels 9 to 14.
+spot in Amsterdam (its simulated GPS), at zoom levels 9 to 14, plus the region
+around both at zoom 9 to 10 for the zoomed-out overview.
 
 **Generated, not edited by hand.** Made with `scripts/make-demo-map.mjs` in the Run Tracker repo:
 
